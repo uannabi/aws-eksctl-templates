@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: website
-          image: <your image here>
+          image: <Repositor arn here>
           ports:
             - containerPort: 8089
           resources:
